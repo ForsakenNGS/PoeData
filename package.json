@@ -1,0 +1,30 @@
+{
+  "name": "poedata",
+  "version": "1.0.0",
+  "description": "Read and process data from the official Path of Exile APIs (trading api + wiki)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForsakenNGS/PoeData.git"
+  },
+  "keywords": [
+    "poe",
+    "path",
+    "of",
+    "exile",
+    "api"
+  ],
+  "author": "Jens N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForsakenNGS/PoeData/issues"
+  },
+  "homepage": "https://github.com/ForsakenNGS/PoeData#readme",
+  "dependencies": {
+    "html-entities": "^1.2.1",
+    "request": "^2.88.0"
+  }
+}

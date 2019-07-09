@@ -1,0 +1,51 @@
+{
+  "items": {
+    "fields": [
+      "_pageID=page_id",
+      "base_item", "base_item_id", "base_item_page",
+      "class", "class_id",
+      "description",
+      "explicit_stat_text", "flavour_text", "frame_type", "help_text", "icon",
+      "implicit_stat_text", "inventory_icon", "is_corrupted", "is_corrupted", "is_relic", "metadata_id",
+      "name", "name_list", "quality", "rarity", "rarity_id", "release_version", "removal_version",
+      "size_x", "size_y", "stat_text", "supertype", "tags"
+    ]
+  },
+  "item_mods": {
+    "fields": [
+      "_pageID=page_id",
+      "id", "is_implicit", "is_random", "text"
+    ]
+  },
+  "item_stats": {
+    "fields": [
+      "_pageID=page_id",
+      "id", "is_implicit", "is_random",
+      "avg", "min", "max"
+    ]
+  },
+  "mods": {
+    "fields": [
+      "_pageID=page_id",
+      "id", "domain", "generation_type",
+      "granted_buff_id", "granted_buff_value", "granted_skill",
+      "mod_group", "mod_type",
+      "name",
+      "required_level",
+      "stat_text", "stat_text_raw",
+      "tags", "tier_text"
+    ]
+  },
+  "mod_stats": {
+    "fields": [
+      "_pageID=page_id",
+      "id", "min", "max"
+    ]
+  },
+  "spawn_weights": {
+    "fields": [
+      "_pageID=page_id",
+      "ordinal", "tag", "weight"
+    ]
+  }
+}
